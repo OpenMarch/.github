@@ -1,3 +1,5 @@
+# OpenMarch - the open source drill-writing software project
+
 OpenMarch is an open source drill writing software built on web app frameworks. Eventually it will be a cross platform desktop app.
 
 ## What can OpenMarch do?
